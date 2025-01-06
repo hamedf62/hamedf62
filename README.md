@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m passionate about leveraging technology and c
 
 ## 🚀 About Me
 - 🌍 I’m based in Yazd, Iran.
-- 📚 I’m a university teacher and researcher with a focus on **tourism**, **data science**, **artificial intelligence**, and **machine learning**.
+- 📚 I’m a researcher with a focus on **tourism**, **data science**, **artificial intelligence**, and **machine learning**.
 - ✍️ I enjoy writing research papers and developing projects that combine technology and **sustainability**.
 - 🔬 I’m particularly interested in using AI to enhance the **travel experience**, optimize **tourism marketing**, and explore **positive psychology in tourism**.
 
